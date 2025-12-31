@@ -1,6 +1,12 @@
 {
+    "name": "portalog/vessel-report",
+    "description": "Vessel Daily Report System",
     "require": {
-        "phpoffice/phpspreadsheet": "^5.1",
-        "dompdf/dompdf": "^3.1"
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "files": [
+            "fpdf.php"
+        ]
     }
 }
