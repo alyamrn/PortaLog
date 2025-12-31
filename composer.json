@@ -2,7 +2,7 @@
     "name": "portalog/vessel-report",
     "description": "Vessel Daily Report System",
     "require": {
-        "php": ">=7.4"
+        "php": ">=8.0"
     },
     "autoload": {
         "files": [
