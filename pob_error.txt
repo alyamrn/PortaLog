@@ -1,0 +1,52 @@
+2025-12-22T04:10:09+01:00 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+POST: Array
+(
+    [full_name] => 34
+    [full_name_text] => Ahmad Kadir
+    [category] => VISITOR
+    [crew_role] => Chief Officer
+    [embark_date] => 2025-12-22
+    [disembark_date] => 2025-12-31
+    [remarks] => 
+)
+
+
+2025-12-22T04:13:52+01:00 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+POST: Array
+(
+    [full_name] => 34
+    [full_name_text] => Ahmad Kadir
+    [category] => VISITOR
+    [crew_role] => Chief Officer
+    [embark_date] => 2025-12-22
+    [disembark_date] => 2025-12-31
+    [remarks] => 
+)
+
+
+2025-12-22T04:15:26+01:00 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+POST: Array
+(
+    [full_name] => 34
+    [full_name_text] => Ahmad Kadir
+    [category] => VISITOR
+    [crew_role] => Chief Officer
+    [embark_date] => 2025-12-22
+    [disembark_date] => 2025-12-31
+    [remarks] => 
+)
+
+
+2025-12-22T04:15:44+01:00 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+POST: Array
+(
+    [full_name] => 25
+    [full_name_text] => ALI BIN AMRAN
+    [category] => CREW
+    [crew_role] => CAPTIAN
+    [embark_date] => 2025-12-22
+    [disembark_date] => 2025-12-31
+    [remarks] => 
+)
+
+
